@@ -14,7 +14,7 @@
     }
   ],
   "require": {
-    "symbiote/silverstripe-gridfieldextensions": "3.4",
+    "symbiote/silverstripe-gridfieldextensions": "*",
     "silvershop/core": "3.x"
   }
 }
